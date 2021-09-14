@@ -1,0 +1,122 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: DevOn
+    url: "https://www.devon.nl"
+    location: Delft
+    # company overview
+    overview: At DevOn, we believe that organizations need to radically improve their software development to stay ahead of the competition. We do not make step-by-step improvements, on the contrary, we implement innovative solutions that radically change software development for the better. We help organizations solve their impediments and move beyond traditional ways of work.
+  positions:
+  - designation: DevOps Accelerator
+    start: Jan 2018
+    responsibilities:
+    - The contentual conduct of technical Agile and Scrum transitions with customers
+    - Setting up Continuous Delivery or DevOps at our clients
+    - Collaborating with and advising senior management, architects and the business to keep the transformation going
+    - Not only lead the transition, but also hand-on working on a successful result
+    - Transfer skills and teaching a new mindset to technical teams
+    - Facilitate technical trainings, open course as well as at customers
+    - Share knowledge on both external and internal events
+  
+  - designation: CI/CD Enabler @ABN Amro bank
+    start: jun 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - ABN AMRO organizes a transformation in which Agile teams are steered towards DevOps, in a controlled manner.
+    - Markus is bringing together Development and Operations responsibilities and teaching new behavior and skills.
+    - He teaches the new way of working, which implies a modular software architecture and the use of a highly automated software delivery pipeline (CI/CD).
+    - As a CI/CD enabler Markus acts as a catalyst in shaping excellence to enable teams to improve their IT performance (lead time for changes, release frequency, change fail rate, time to restore service and availability). He is assessing teams on their current IT-performance and work together with the team and their stakeholders to identify improvements that can help the teams IT-performance. Markus assists the teams in changing their way of working to be able to use a highly automated software delivery pipeline. To help the teams he is closely collaborating with different supporting parties that are providing default platforms, architecture and CI/CD Pipelines.
+    - he keeps his knowledge up to speed in this rapid changing world
+    - he is able to demonstrate development techniques.
+    - he knows how to inspire and how to encourage teams.
+    - he is focused on delivering value in an automated and controlled way.
+    - He knows about the cultural diversity in large scale organizations with offshore capabilities and how to handle delicate situations with respect.
+
+  - designation: CI/CD Coach SAP Stack @Stedin
+    start: Nov 2018
+    end: May 2019
+    responsibilities: 
+    - Stedin was looking for help with 3 teams to make progress in CI/CD in the SAP domain. Markus helped the three teams with different sessions about metrics, ABAP Unit testing and TDD. He helped the teams to start meassure the current performance based on the 4 metrics from the Accelerate book - Lead time, Number of releases, Mean Time to Repair and Change failure rate. Also an [assessment](https://devon.nl/kennis/assessments) create by DevOn was used to measure the status of CI/CD with the teams.
+    - 'technologies used: SAP; ABAP; ABAPUnit; Code Inspector; Continuous Integration; Unit testing; Code Quality; Workshops; Coaching'
+    
+  - designation: CI/CD Coach SAP Stack @Achmea
+    start: Oct 2018
+    end: Mar 2019
+    responsibilities: 
+    - At Achmea Markus helped to embed ABAP unit testing and Test Driven development. He provided a unit test and TDD workshop at several SAP departments. Next to that he helped the teams a few days a week to help them make steps in their way of work. He also gave internal presentations on knowledge sharing events about unit testing on SAP.
+    - 'technologies used: SAP; ABAP; ABAPUnit; Code Inspector; Continuous Integration; Unit testing; Code Quality; Workshops; Coaching'
+
+  - designation: Agile/DevOps Coach @Nationale Nederlanden
+    start: jan 2018
+    end: jan 2019
+    responsibilities:
+    - Being both Agile coach and CI/CD coach Markus helps multiple teams getting better. The transformation to devops has started a year ago, teams went from scratch to agile scrum teams where operations is embedded. Markus safeguards the agile transformation, coaches teams and management to make the right next steps. When teams are ready for the next steps he helps them to improve by automating processes. Insight in processes, value stream mapping, agile leadership and making people more successful and happy are key topics.
+    - 'technologies used: Jira; Jenkins; SAP ECC; SAP Hana; Scrum; DevOps; Agile; Consulting; Interview; Kennisoverdracht; Coaching; Continuous Integration; Continuous Delivery; Unit testing; Code Quality; Workshops'
+    
+- company:
+    name: DevOps Institute
+    url: "https://www.devopsinstitute.com/"
+    location: Netherlands
+    overview: 
+  positions:
+  - designation: Certified Trainer
+    start: Aug 2018
+    responsibilities:
+    - As a senior IT consultant I am versatile. I like to expand my knowledge and I am able to adjust to many different roles. In addition to my managerial skills, I have a broad range of technical skills. I attach great  importance to clear communication and openness. I am able to motivate people, bridge contradictions and achieve lasting acceptance among the people involved. I believe contact with all stakeholders is very important, I know how to balance interests in order to reach synergy and agreement.
+    - Certified [DevOps Foundation](https://devonacademy.com/training/devops-foundation) trainer
+    - Certified [Devops Leader](https://devonacademy.com/training/devops-leader) trainer
+    - Certified [DeSecOps](https://devonacademy.com/training/devsecops-foundation) trainer
+    - Certified [Continuous testing Foundation](https://devonacademy.com/training/continuous-testing-foundation) trainer
+    - Certified [Continuous Delivery Ecosystems](https://devonacademy.com/training/continuous-delivery-ecosystem-foundation) trainer
+    
+- company:
+    name: Atos
+    url: "https://www.Atos.net"
+    location: Delft
+    # company overview
+    overview: At DevOn, we believe that organizations need to radically improve their software development to stay ahead of the competition. We do not make step-by-step improvements, on the contrary, we implement innovative solutions that radically change software development for the better. We help organizations solve their impediments and move beyond traditional ways of work.
+  positions:
+  
+  - designation: Senior Software Engineer
+    start: jan 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+  - designation: Junior Software Engineer
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+    
+- company:
+    name: Intern Counting Company (ICC).
+    url: "https://www.example.com"
+    location: Intern Land
+    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: Intern
+    start: Jun 2015
+    end: Jan 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
