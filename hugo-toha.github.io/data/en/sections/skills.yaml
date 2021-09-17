@@ -13,25 +13,25 @@ section:
 skills:
 - name: DevOps
   logo: /images/sections/skills/devops1.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Able to explain and teach the principles and best practices of DevOps. The 3 ways - Continuous Integration / Continuous Delivery - Culture and many more aspects"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
+- name: Angular Development
+  logo: /images/sections/skills/angular.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  url: "https://angular.io/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Business Objects
+  logo: /images/sections/skills/bo.png
+  summary: "Business Intelligence specialist that worked with Business Objects and Crystal Reports to translate data into insights."
+  url: "https://www.sap.com/products/bi-platform.html"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
+- name: Azure
+  logo: /images/sections/skills/azure.png
   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
   url: "https://prometheus.io/"
 
@@ -44,6 +44,10 @@ skills:
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
+- name: Agile
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  
+- name: Programming languages
+  logo: /images/sections/skills/coder.png
+  summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."

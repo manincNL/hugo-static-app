@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://black-bay-07d8ed703.azurestaticapps.net/'
 languageCode = 'en-us'
 title = 'Markus profile'
 theme = "toha-devon"
