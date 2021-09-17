@@ -1,11 +1,11 @@
 [home]
-other = "Startseite"
+other = "Home"
 
 [posts]
-other = "Beiträge"
+other = "Posts"
 
 [toc_heading]
-other = "Inhaltsverzeichnis"
+other = "Index"
 
 [tags]
 other = "Tags"
@@ -14,46 +14,46 @@ other = "Tags"
 other = "Categorieën"
 
 [at]
-other = "bei"
+other = "bij"
 
 [resume]
-other = "Mein Lebenslauf"
+other = "Mijn profiel"
 
 [navigation]
-other = "Navigation"
+other = "Navigatie"
 
 [contact_me]
-other = "Kontakt aufnehmen"
+other = "Kontakt opnemen"
 
 [email]
 other = "E-Mail"
 
 [phone]
-other = "Telefon"
+other = "Telefoon"
 
 [newsletter_text]
-other = "Mit dem Newsletter auf dem neuesten Stand bleiben"
+other = "Met de nieuwsletter op de hoogte blijven"
 
 [newsletter_input_placeholder]
-other = "E-Mail-Adresse eingeben"
+other = "E-Mail adres opgeven"
 
 [newsletter_warning]
 other = "Door uw e-mailadres in te voeren, gaat u akkoord met het ontvangen van de nieuwsbrief van deze website."
 
 [submit]
-other = "Absenden"
+other = "Verzenden"
 
 [hugoAttributionText]
-other = "Unterstützt von"
+other = "Powered by"
 
 [prev]
-other = "Vorherige"
+other = "Vorige"
 
 [next]
-other = "Nächste"
+other = "Volgende"
 
 [improve_this_page]
-other = "Diese Seite verbessern"
+other = "Deze site verbeteren"
 
 [out_of]
 other = "van de"
@@ -95,7 +95,7 @@ other = "Laat minder zien"
 # other = "comments powered by"
 
 # [read]
-# other = "Read"
+# other = "Lees meer"
 
 # [project_star]
 # other = "Star"
@@ -104,7 +104,7 @@ other = "Laat minder zien"
 # other = "Details"
 
 # [err_404]
-# other = "The page you are looking for is not there yet."
+# other = "Helaas niks gevonden....."
 
 [more]
 other = "Meer"
@@ -116,4 +116,4 @@ other = "Bekijk certificaat"
 other = "Opmerkingen"
 
 [disclaimer_text]
-other = "Haftungshinweis"
+other = "Disclaimer"
