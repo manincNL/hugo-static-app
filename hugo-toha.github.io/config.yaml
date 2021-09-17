@@ -1,4 +1,4 @@
-baseURL:https://mango-mud-068a88603.azurestaticapps.net/hugo-toha.github.io
+baseURL: https://mango-mud-068a88603.azurestaticapps.net/hugo-toha.github.io
 
 languageCode: en-us
 title: "Markus van Duijn's resume"
@@ -54,7 +54,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/manincNL/.../hugo-toha.github.io
+  gitRepo: https://github.com/manincNL/hugo-static-app/hugo-toha.github.io
   # Default branch of your Git repo
   gitBranch: source
 
