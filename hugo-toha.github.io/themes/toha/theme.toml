@@ -2,7 +2,7 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 description = "A simple hugo theme for personal portfolio"
 #homepage = "https://hugo-toha.github.io/"
-homepage = https://mango-mud-068a88603.azurestaticapps.net/hugo-toha.github.io/"
+homepage = https://mango-mud-068a88603.azurestaticapps.net/"
 license = "MIT"
 licenselink = "https://github.com/hugo-toha/toha/blob/master/LICENSE"
 min_version = "0.68.0"
