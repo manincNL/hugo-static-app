@@ -107,8 +107,8 @@ badges:
   color: "#ff5000"
 
 - type: soft-skill-indicator
-  name: Respectful
-  percentage: 100
+  name: American Football
+  percentage: 98
   color: "#17a2b8"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
