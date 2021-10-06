@@ -7,12 +7,25 @@
 }
 
 .experiences-section ul {
+  padding-left: 0;
+  list-style-type:none;
+}
+
+.experiences-section ul ul{
   padding-left: 1rem;
+  list-style-type:disc;
 }
 
 .experiences-section ul > li {
   margin-left: 0;
   color: #3c4858;
+  margin-bottom: 15px;
+}
+
+.experiences-section ul ul > li {
+  margin-left: 0;
+  color: #3c4858;
+  margin-bottom: 0;
 }
 
 .experiences-section .designation {

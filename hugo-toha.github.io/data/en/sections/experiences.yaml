@@ -84,23 +84,81 @@ experiences:
 - company:
     name: Atos
     url: "https://www.Atos.net"
-    location: Delft
+    location: Utrecht/Amstelveen
     # company overview
-    overview: At DevOn, we believe that organizations need to radically improve their software development to stay ahead of the competition. We do not make step-by-step improvements, on the contrary, we implement innovative solutions that radically change software development for the better. We help organizations solve their impediments and move beyond traditional ways of work.
+    overview: 
   positions:
+
+  - designation: Senior IT Consultant
+    start: Jun 2008
+    end: Dec 2017
+    responsibilities:
+    - "Markus is an allround consultant and he is fulfilling multiple roles at clients in the bank sector:"
+    - Business Intelligence Specialist
+    - Agile Project leader
+    - Scrum Master / Product Owner in DevOps teams
+    - Identity- and Access Management Specialist
+    - Team leader
+    - Security Specialist
+    - Release Coördinator
+    - IT Service Management Specialist
+    - Senior Application Engineer
   
-  - designation: Senior Software Engineer
-    start: jan 2018
+  - designation: Agile Coach CI/CD Stack @ ABN Amro bank
+    start: jun 2016
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Dec 2017
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Within IT Solutions a CI/CD (Continuous Integrations / Continuous Delivery) Expert was needed, who has, next to his technical expertise, also great coaching skills.
+    - A Centers of Expertise (CoE) collaborates with projects to ensure that new or modified applications and infrastructure are implemented correctly. This makes the role of the CoE staff in a project highly complex. Partly the project is assisted by expertise from the CoE, on the other hand, of the other part, regulations and governance that need to be followed can be a complicating and restricting factor for the project. Extra factor is that they are also part of the formal Quality Assurance in their own jurisdiction.
+    - "Upon Markus' arrival Agile / Scrum was rolled out in certain parts of the bank, in addition to attitude and behaviour is automation of processes conditionally for a successful rollout. As Agile coach CI/CD Stack Markus was responsible for: Coaching - Flexibility and inventiveness - IT authority"
+
+  - designation: Agile Coach / Advisor
+    start: Jan 2016
+    end: Jun 2016
+    responsibilities:
+    - As Agile coach Markus promoted and advised on the agile way of work within Atos and at several clients.
+    - Starting in a start-up innovations team from where Markus used his experience with scrum and DevOps to streamline the scrum process. He gave an agile fundamentals training which inspired people to broaden their knowledge even further and resulted in some of them preparing for their own PSM1 certificate.
+    - For several clients Markus analysed the current agile processes and identified bottlenecks. He advised how to solve the bottlenecks and wrote plans to improve the current processes. For one of the clients he even set up a complete plan to incorporate the business within the DevOps structure.
+    - At Atos Internally Markus has supported a group of managers to create a client specific training project using the Scrum framework. He provided structure so the top management would engage the portfolio and roadmap, a second level of managers were working out their own specific areas. In this way several Scrum teams were created. Markus safeguarded the Scrum methodology and helped to establish a Jira board.
+
+  - designation: "Mentor \"Trans forward to .....\" Project"
+    start: Apr 2014
+    end: Dec 2014
+    responsibilities:
+    - Trans Forward to ..... was a large project to trigger an internal change in culture and mind-set among staff of Managed Services. The whole project consisted of three phases. <ol><li>Trans forward to Connect</li><li>Trans forward to Shape</li><li>Trans forward to Change</li></ol>
+    - In total an organization of around 5000 people had to change. This was done by letting the Management Team, all managers and 1500 employees engage the change process within the organization.
+    - methods<ul><li>Awareness sessions</li><li>Open Space sessions</li><li>Process improvement projects</li></ul>
+    - As one of the mentors Markus made sure that the Management Team, all managers of Managed Services and a large group of employees were led through these phases. Besides being involved in all sessions, he was closely involved in all activities outside of the sessions. It was his job to coach participants and let them stay aware of the objectives and commitments.
+    - As mentor team together with the coaches we have put up a great result. A Denison scan has revealed that the mind-set and culture change has been turned into in the right direction.
+    
+  - designation: Junior Software Engineer
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
 
   - designation: Junior Software Engineer
     start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+
+  - designation: Junior Software Engineer
+    start: Nov 2017
+    end: Oct 2019
+    responsibilities:
+    - Implement and test xyz feature for abc tool.
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+    
+  - designation: Junior Software Engineer
+    start: Jun 2008
     end: Oct 2019
     responsibilities:
     - Implement and test xyz feature for abc tool.
