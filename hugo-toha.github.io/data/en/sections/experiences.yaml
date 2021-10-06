@@ -29,28 +29,25 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - "ABN AMRO organizes a transformation in which Agile teams are steered towards DevOps, in a controlled manner. Markus’ responsibilities are: <ul><li>Bringing together Development and Operations responsibilities and teaching new behavior and skills.</li><li>Teach the new way of working, which implies a modular software architecture and the use of a highly automated software delivery pipeline (CI/CD).</li></ul>"
-    - "As a CI/CD enabler Markus acts as a catalyst in shaping excellence to enable teams to improve their IT performance (lead time for changes, release frequency, change fail rate, time to restore service and availability). He is assessing teams on their current IT-performance and work together with the team and their stakeholders to identify improvements that can help the teams IT-performance. Markus assists the teams in changing their way of working to be able to use a highly automated software delivery pipeline. To help the teams he is closely collaborating with different supporting parties that are providing default platforms, architecture and CI/CD Pipelines. Markus brings the following knowledge and experience to the table: <ul><li>he keeps his knowledge up to speed in this rapid changing world</li><li>he is able to demonstrate</li><li>development techniques.</li><li>he knows how to inspire and how to encourage teams.</li><li>he is focused on delivering value in an automated and controlled way.</li><li>He knows about the cultural diversity in large scale organizations with offshore capabilities and how to handle delicate situations with respect.</li></ul>"
+    - "As a CI/CD enabler Markus acts as a catalyst in shaping excellence to enable teams to improve their IT performance (lead time for changes, release frequency, change fail rate, time to restore service and availability). He is assessing teams on their current IT-performance and work together with the team and their stakeholders to identify improvements that can help the teams IT-performance. Markus assists the teams in changing their way of working to be able to use a highly automated software delivery pipeline. To help the teams he is closely collaborating with different supporting parties that are providing default platforms, architecture and CI/CD Pipelines. Markus brings the following knowledge and experience to the table: <ul><li>he keeps his knowledge up to speed in this rapid changing world</li><li>he is able to demonstrate development techniques.</li><li>he knows how to inspire and how to encourage teams.</li><li>he is focused on delivering value in an automated and controlled way.</li><li>He knows about the cultural diversity in large scale organizations with offshore capabilities and how to handle delicate situations with respect.</li></ul>"
 
   - designation: CI/CD Coach SAP Stack @Stedin
     start: Nov 2018
     end: May 2019
     responsibilities: 
     - Stedin was looking for help with 3 teams to make progress in CI/CD in the SAP domain. Markus helped the three teams with different sessions about metrics, ABAP Unit testing and TDD. He helped the teams to start meassure the current performance based on the 4 metrics from the Accelerate book - Lead time, Number of releases, Mean Time to Repair and Change failure rate. Also an [assessment](https://devon.nl/kennis/assessments) create by DevOn was used to measure the status of CI/CD with the teams.
-    - 'technologies used: SAP; ABAP; ABAPUnit; Code Inspector; Continuous Integration; Unit testing; Code Quality; Workshops; Coaching'
     
   - designation: CI/CD Coach SAP Stack @Achmea
     start: Oct 2018
     end: Mar 2019
     responsibilities: 
     - At Achmea Markus helped to embed ABAP unit testing and Test Driven development. He provided a unit test and TDD workshop at several SAP departments. Next to that he helped the teams a few days a week to help them make steps in their way of work. He also gave internal presentations on knowledge sharing events about unit testing on SAP.
-    - 'technologies used: SAP; ABAP; ABAPUnit; Code Inspector; Continuous Integration; Unit testing; Code Quality; Workshops; Coaching'
 
   - designation: Agile/DevOps Coach @Nationale Nederlanden
     start: jan 2018
     end: jan 2019
     responsibilities:
     - Being both Agile coach and CI/CD coach Markus helps multiple teams getting better. The transformation to devops has started a year ago, teams went from scratch to agile scrum teams where operations is embedded. Markus safeguards the agile transformation, coaches teams and management to make the right next steps. When teams are ready for the next steps he helps them to improve by automating processes. Insight in processes, value stream mapping, agile leadership and making people more successful and happy are key topics.
-    - 'technologies used: Jira; Jenkins; SAP ECC; SAP Hana; Scrum; DevOps; Agile; Consulting; Interview; Kennisoverdracht; Coaching; Continuous Integration; Continuous Delivery; Unit testing; Code Quality; Workshops'
     
 - company:
     name: DevOps Institute
@@ -93,7 +90,7 @@ experiences:
     end: Jun 2016
     responsibilities:
     - As Agile coach Markus promoted and advised on the agile way of work within Atos and at several clients.
-    - Starting in a start-up innovations team from where Markus used his experience with scrum and DevOps to streamline the scrum process. He gave an agile fundamentals training which inspired people to broaden their knowledge even further and resulted in some of them preparing for their own PSM1 certificate.
+    - Starting in a start-up innovations team from where Markus used his experience with scrum and DevOps to streamline the scrum process. He gave an agile fundamentals training which inspired people to broaden their knowledge even further and resulted in some of them preparing for their own [PSM1](https://www.credly.com/badges/c3c52887-75e8-4f28-9ed8-2c93dd76745f?source=linked_in_profile) certificate.
     - For several clients Markus analysed the current agile processes and identified bottlenecks. He advised how to solve the bottlenecks and wrote plans to improve the current processes. For one of the clients he even set up a complete plan to incorporate the business within the DevOps structure.
     - At Atos Internally Markus has supported a group of managers to create a client specific training project using the Scrum framework. He provided structure so the top management would engage the portfolio and roadmap, a second level of managers were working out their own specific areas. In this way several Scrum teams were created. Markus safeguarded the Scrum methodology and helped to establish a Jira board.
 
@@ -178,15 +175,33 @@ experiences:
     - In his last assignment as Business Objects specialist at ING bank Netherlands (Entitlement Services) Markus has managed the Business Objects environment. The assignment was divided into 3 main tasks. Firstly it was Markus' responsibility to manage the Universes and existing reports. Keeping them up to date, make documentation, keep track of versions and releases and answer questions from the costumers concerning the reports. Secondly, it was his duty to cooperate with the end users to create new and better reports. This part of his responsibilities included an information analysis session with the end-user, then design and development of the report. When the report was ready Markus and the end user evaluated and checked the final report before publishing it. Finally Markus was involved in meetings and discussions which pertained to Entitlement Services and issues concerning (possible) reports. His expertise in the field of Business Intelligence, Business Objects and the data environment was used as input for open issues.
     
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Nationaal Incasso Bureau
+    url: "https://nibincasso.nl/"
+    location: Amsterdam/Purmerend
+    overview: 
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: BI Developer / Crystal Reports Expert
+    start: aug 2003
+    end: Jun 2008
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - In his function as an IT employee at the \"Nationaal Incasso Bureau BV\" Markus has developed himself into the reporting specialist he currently is. Markus has created many different and varied BI-reports, from special requests for customers to information requests for management and board. He was responsible for the entire project, from information analysis to designing the reports till presenting the final reports. For creating the reports Markus used Crystal Reports and more recently Business Objects as well. Some of the reports made by Markus are related to Data Mining. Examples are reports based on historical data such as a revenue analysis of customers and employees or historical trend analysis overview for costumers.
+    
+  - designation: IT specialist
+    start: May 2001
+    end: Jun 2008
+    responsibilities:
+    - In 2000 I started as IT specialist at NIB. I started parttime and after a few year full time. I supported the IT manager with several tasks. We supported 4 different companies - Collecting National (NIB Incasso) - Collecting International (TCM) - Legal collcting (NIB Juristen) - Communication/Advertising (NRB cc).
+
+  - designation: Teamleader Call center Collections
+    start: Jan 1999
+    end: May 2001
+    responsibilities:
+    - "Markus was working as an employee for the Call Centre at the National Collection Agency and worked from 13:00 to 21:00. The team leader changed departments from Collections to Legal and we were confronted with a team without direct leadership."
+    - Markus was asked to perform this task. His responsibilities were to ensure the quality and productivity of the group. Markus served as a source of information and helped in difficult cases.
+    - Led by Markus, the evening shift achieved good results and they were able to free time to help with the backlog of employees who work during the day.
+    - This was the first introduction to leadership for Markus. He found that the ability to help and guide the staff was very satisfactory.
+    
+  - designation: Employee Callcenter
+    start: Dec 1997
+    end: May 2001
+    responsibilities:
