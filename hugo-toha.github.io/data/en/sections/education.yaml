@@ -10,46 +10,39 @@ section:
   # hideTitle: true
 
 degrees:
-- name: B.Sc. in Computer Science & Engineering
+- name: higher education for the financial sector 
   icon: fa-university
-  timeframe: 2012-2016
+  timeframe: 1993-1997
   institution:
-    name: University of XYZ
+    name: Amsterdamse Academie
     url: "#"
   grade: #(optional)
-    scale: HBO
-    achieved: 3.5
-    outOf: 4
+    scale: HBO - not finished
+    achieved: 0
+    outOf: 5
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+    - name: Economics
+      achieved: 
+      outOf: 
+    - name: Management, Organization and Business Communication
+      achieved: 
+      outOf: 
+    - name: Informatica
+      achieved: 
+      outOf: 
+    - name: Financing
+      achieved: 
+      outOf: 
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Feasibility study for reinsurance in the Dutch Market
+  - Usability for Business Process Redesign in the financial sector
 
 - name: school of higher general secondary education
   icon: fa-school
-  timeframe: 1987-1992
+  timeframe: 1988-1993
   institution:
     name: Johannes College
     url: "#"

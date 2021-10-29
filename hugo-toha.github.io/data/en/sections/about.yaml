@@ -82,18 +82,18 @@ badges:
   badge: "https://images.credly.com/size/340x340/images/12bddaac-9b71-43fd-a81e-71ebd144ee52/BADGES_FINAL_PSM-I_600.png"
   
 - type: soft-skill-indicator
-  name: stress resistant
-  percentage: 90
+  name: Stress Resistant
+  percentage: 100
   color: "#ff5000"
 
 - type: soft-skill-indicator
-  name: helpful
-  percentage: 90
+  name: Helpful
+  percentage: 100
   color: "#17a2b8"
 
 - type: soft-skill-indicator
-  name: consistent
-  percentage: 90
+  name: Consistent
+  percentage: 100
   color: "#ff5000"
 
 - type: soft-skill-indicator
@@ -103,12 +103,12 @@ badges:
   
 - type: soft-skill-indicator
   name: responsible
-  percentage: 90
+  percentage: 100
   color: "#ff5000"
 
 - type: soft-skill-indicator
-  name: American Football
-  percentage: 98
+  name: Bridge Builder
+  percentage: 100
   color: "#17a2b8"
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
