@@ -13,9 +13,6 @@ section:
 skills:
 - name: DevOps
   logo: /images/sections/skills/devops1.png
-<<<<<<< HEAD
-  summary: "Able to explain and teach the principles and best practices of DevOps. The 3 ways - Continuous Integration / Continuous Delivery - Culture and many more aspects. But also the relation between Agile, Lean ITSM and DevOps, therefor being able to fully harnes the power of DevOps in an organization."
-=======
   summary: "7 years of experience in the area of DevOps. Started as DevOps Engineer and grown to a trainer/coach in this field. Able to explain and teach the principles and best practices of DevOps. The 3 ways - Continuous Integration / Continuous Delivery - Culture and many more aspects. Certified trainer in many areas of DevOps like Foundation, Continuous Delivery Architecture, Leadership, Testing and Security"
 
 - name: Agile
@@ -33,11 +30,11 @@ skills:
 - name: Training
   logo: /images/sections/skills/trainer.png
   summary: "I love to be in front of a group of people tranfering my knowledge and helping them to get the best out of themselves. I prefer my trainings to be interactive and full of discussion/exercises. I am not afraid to pick up a challange, small or large groups and any topic."
+  url: "https://www.springest.nl/u/m-a-n-van-duijn"
 
 - name: Leadership
-  logo: /images/sections/skills/coder.png
+  logo: /images/sections/skills/leader.png
   summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."
->>>>>>> cedef3efeb91c4edcf6d25848798330804d7d3f7
 
 - name: Angular Development
   logo: /images/sections/skills/angular.png
@@ -49,19 +46,9 @@ skills:
   summary: "Business Intelligence specialist that worked with Business Objects and Crystal Reports to translate data into insights. I started out as a Business Intelligence specialist in my ealry days. Obtaining several certificates and creating meaningfull reports for customer purposes."
   url: "https://www.sap.com/products/bi-platform.html"
 
-- name: Leadership
-  logo: /images/sections/skills/leader.png
-  summary: " "
-
-- name: Teacher / Trainer
-  logo: 
-  summary: " "
-  url: "https://www.springest.nl/u/m-a-n-van-duijn"
-
 - name: Finance
   logo: 
   summary: " "
-
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -82,13 +69,6 @@ skills:
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab. Able to set up servers and understand branching strategies."
   url: "https://git-scm.com/"
 
-<<<<<<< HEAD
-- name: Agile
-  logo: /images/sections/skills/c++.png
-  summary: " "
-  
-=======
->>>>>>> cedef3efeb91c4edcf6d25848798330804d7d3f7
 - name: Programming languages
   logo: /images/sections/skills/coder.png
   summary: "Experimented with many technologies and able to write code, unit tests in C#, Python, VBA, PHP, ABAP, Javascript."
