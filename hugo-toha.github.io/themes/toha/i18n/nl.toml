@@ -62,10 +62,10 @@ other = "van de"
 other = "Publicaties"
 
 [taken_courses]
-other = "Cursussen gevolgd"
+other = "vakken gevolgd"
 
 [course_name]
-other = "Cursus naam"
+other = "Naam vak"
 
 [total_credit]
 other = "Totaal krediet"
