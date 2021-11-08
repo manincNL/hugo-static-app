@@ -7,7 +7,7 @@ You can modify or distribute the theme without requiring any permission from the
 However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio en persoonlijke blog can Markus van Duijn.
+description: Portfolio en persoonlijke blog van Markus van Duijn.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -17,8 +17,9 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Markus profiel
+  title: Markus' Profiel
   type: website
-  description: Profiel van Markus van Duijn.
-  image: images/author/markus   .jpg
-  url: https://hugo-toha.github.io
+  description: Profiel van Markus van Duijn
+  image: images/author/markus.jpg
+  # url: https://mango-mud-068a88603.azurestaticapps.net/hugo-toha.github.io
+  url: https://zealous-field-079b60e10.azurestaticapps.net/
